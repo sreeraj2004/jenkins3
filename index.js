@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 app.get('/',(req,res)=>{
-    res.send(`<h1>Hello from jenkins</h1>`)
+    res.send(`<h1>Hello from jenkinss</h1>`)
 })
 
 
